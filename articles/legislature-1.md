@@ -84,10 +84,10 @@ All citizens who have attained the age of eighteen are eligible to join the Asse
 Upon the joint request of at least one senator and one representative, legislation that has passed the House and Senate to be signed into law can be
 brought before the Assembly of Citizens.
 
-One thousand citizens from the Assembly will then be chosen at random to form a jury to review the bill. This jury will be contacted via both electronic mail, postal mail, and a telephone call, and then have seven days to reply via a secure electronic form or via postal mail, for which postage will have been paid. Those who assent to the bill becoming law need not reply, but if six hundred of the random jury reply within seven days that the law should be vetoed, the law is considered vetoed, even if the President has already signed the bill into law. 
+One thousand citizens from the Assembly will then be chosen at random to form a jury to review the bill. This jury will be contacted via both electronic mail, postal mail, and telephone, and be given seven days to register their reply. A website will be provided which allows members of the jury to register their assent or dissent, though they may also reply via postal mail, for which postage will have been paid. Responses not received within the time frame are considered to be assenting votes. If three-fifths of the jury vote to dissent, the bill is not passed into law, and sent back to the House to which the bill originates.
 
+## Section 5 - Elections, Meetings.
 
-## Section 4 - Assembly.
 The Times, Places and Manner of holding Elections for Senators and
 Representatives, shall be as followed:
 
@@ -95,71 +95,62 @@ Representatives, shall be as followed:
 
 * General elections are to be held on the first Sunday following the first Monday in November, with early voting available for three weeks prior.  
 
-The Congress shall assemble at least once in every Year, and such Meeting shall
-be on the first Monday in December, unless they shall by Law appoint a
-different Day.
+The Congress shall assemble at least once in every year, and such meeting shall
+be on the first Monday in December, unless they shall by law appoint a
+different day.
 
-Section 5
-Each House shall be the Judge of the Elections, Returns and Qualifications of
-its own Members, and a Majority of each shall constitute a Quorum to do
-Business; but a smaller number may adjourn from day to day, and may be
-authorized to compel the Attendance of absent Members, in such Manner, and
-under such Penalties as each House may provide.
+## Section 6 - Membership, Rules, Journals, Adjournment
 
-Each House may determine the Rules of its Proceedings, punish its Members for
-disorderly Behavior, and, with the Concurrence of two-thirds, expel a Member.
+The House of Representatives and the Senate shall be the judge of the elections, returns and qualifications of its own members, and a majority of each shall constitute a quorum to do business; but a smaller number may adjourn from day to day, and may be authorized to compel the attendance of absent members, in such manner, and under such penalties as each House may provide.
 
-Each House shall keep a Journal of its Proceedings, and from time to time
-publish the same, excepting such Parts as may in their Judgment require
-Secrecy; and the Yeas and Nays of the Members of either House on any question
-shall, at the Desire of one fifth of those Present, be entered on the Journal.
+The House of Representatives also shall be the judge of results from the Assembly of Citizens.
 
-Neither House, during the Session of Congress, shall, without the Consent of
-the other, adjourn for more than three days, nor to any other Place than that
+Each House may determine the rules of its proceedings, punish its members for
+disorderly behavior, and, with the concurrence of two-thirds, expel a member.
+
+Each House shall keep a journal of its proceedings, and from time to time
+publish the same, excepting such parts as may in their judgment require
+secrecy; and the yeas and nays of the members of either House on any question
+shall, at the desire of one fifth of those present, be entered on the journal.
+
+Neither House, during the session of Congress, shall, without the consent of
+the other, adjourn for more than three days, nor to any other place than that
 in which the two Houses shall be sitting.
 
-Section 6
+## Section 7 - Compensation
+
 The Senators and Representatives shall receive a Compensation for their
 Services, to be ascertained by Law, and paid out of the Treasury of the United
-States. They shall in all Cases, except Treason, Felony and Breach of the
-Peace, be privileged from Arrest during their Attendance at the Session of
-their respective Houses, and in going to and returning from the same; and for
-any Speech or Debate in either House, they shall not be questioned in any other
-Place.
+States.
 
-No Senator or Representative shall, during the Time for which he was elected,
-be appointed to any civil Office under the Authority of the United States which
-shall have been created, or the Emoluments whereof shall have been increased
-during such time; and no Person holding any Office under the United States,
-shall be a Member of either House during his Continuance in Office.
+No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened.
 
+They shall in all cases, except treason, felony, and breach of the
+peace, be privileged from arrest during their attendance at the session of
+their respective houses, and in going to and returning from the same; and for
+any speech or debate in either house, they shall not be questioned in any other
+place.
 
-Section 7
-All bills for raising Revenue shall originate in the House of Representatives;
-but the Senate may propose or concur with Amendments as on other Bills.
+No Senator or Representative shall, during the time for which he or she was elected, be appointed to any civil office under the authority of the United States which shall have been created, or the compensation or perquisites shall have been increased during such time.
 
-Every Bill which shall have passed the House of Representatives and the Senate,
-shall, before it become a Law, be presented to the President of the United
-States; If he approve he shall sign it, but if not he shall return it, with his
-Objections to that House in which it shall have originated, who shall enter the
-Objections at large on their Journal, and proceed to reconsider it. If after
-such Reconsideration two thirds of that House shall agree to pass the Bill, it
-shall be sent, together with the Objections, to the other House, by which it
-shall likewise be reconsidered, and if approved by two thirds of that House, it
-shall become a Law. But in all such Cases the Votes of both Houses shall be
-determined by Yeas and Nays, and the Names of the Persons voting for and
-against the Bill shall be entered on the Journal of each House respectively. If
-any Bill shall not be returned by the President within ten Days (Sundays
-excepted) after it shall have been presented to him, the Same shall be a Law,
-in like Manner as if he had signed it, unless the Congress by their Adjournment
-prevent its Return, in which Case it shall not be a Law.
+No person holding any office under the United States, shall be a member of either the House of Representative or the Senate during his or her continuance in office.
 
-Every Order, Resolution, or Vote to which the Concurrence of the Senate and
-House of Representatives may be necessary (except on a question of Adjournment)
-shall be presented to the President of the United States; and before the Same
-shall take Effect, shall be approved by him, or being disapproved by him, shall
-be repassed by two thirds of the Senate and House of Representatives, according
-to the Rules and Limitations prescribed in the Case of a Bill.
+## Section 8 - Revenue Bills, Legislative Process, Presidential and Assembly Veto
+
+All bills for raising revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
+Every bill which shall have passed the House of Representatives and the Senate, shall, before it become a law, be presented to the President of the United States, and with the request of a member of the House and a member of the Senate, be presented to a jury from the Assembly of Citizens.
+
+If the President approves of the bill, he or she will sign it.
+
+If the President does not approve of the bill, he or she shall return it with his objections to the house in which it shall have originated. That house will then enter the objections at large on their journal.
+
+If the jury of the Assembly of Citizens
+
+and proceed, if they wish, to reconsider it. If after such reconsideration, two thirds of that house shall agree to pass the bill, it shall be sent, together with the objections, to the other house, by which it hal
+
+If If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+
+Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
 
 
 Section 8
