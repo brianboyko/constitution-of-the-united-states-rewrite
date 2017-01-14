@@ -4,6 +4,8 @@
 
 All of the legislative powers granted by this Constitution will be vested in a Congress of the United States, which will consist of a Senate, a House of Representatives, and an Assembly of Citizens.
 
+The House of Representatives and Senate shall assemble at least once in every year, and such meetings shall begin at noon on the third day of January, unless Congress, by law, appoint a different day.
+
 ## Section 2 -- the House of Representatives
 
 The House of Representatives shall be composed of Members chosen every third year by the total population of the United States of America.
@@ -138,112 +140,99 @@ No person holding any office under the United States, shall be a member of eithe
 ## Section 8 - Revenue Bills, Legislative Process, Presidential and Assembly Veto
 
 All bills for raising revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills.
+
 Every bill which shall have passed the House of Representatives and the Senate, shall, before it become a law, be presented to the President of the United States, and with the request of a member of the House and a member of the Senate, be presented to a jury from the Assembly of Citizens.
 
 If the President approves of the bill, he or she will sign it.
 
 If the President does not approve of the bill, he or she shall return it with his objections to the house in which it shall have originated. That house will then enter the objections at large on their journal.
 
-If the jury of the Assembly of Citizens
+If the jury of the Assembly of Citizens votes by three-fifths majority to dissent from the bill, the bill will be returned to the house in which it shall have originated. That house will then enter into their record that the bill was declined by the Assembly of Citizens.
 
-and proceed, if they wish, to reconsider it. If after such reconsideration, two thirds of that house shall agree to pass the bill, it shall be sent, together with the objections, to the other house, by which it hal
+At that point, either house, if they wish, may reconsider the bill. If after such reconsideration, two thirds of that house agree to pass the bill, it shall be sent, together with any Presidential objections, to the other house, where it will likewise be reconsidered, and if approved by two thirds of that house, it shall become a Law.
 
-If If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it. If after such Reconsideration two thirds of that House shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a Law. But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively. If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which Case it shall not be a Law.
+In all such cases, the votes of both house shall be determined by Yeas and Nays, and the names of the persons voting for and against the bill shall be entered on the journal of each house, respectively.
 
-Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill.
+If any bill shall not be returned by the President within ten days (Sundays excepted) after it shall have been presented to him, as if he had signed it, become law, unless the Congress, by their adjournment, prevents its return, in which case it shall not be a law.
 
+Every order, resolution, or vote, to which the concurrence of the Senate and House of Representatives may be necessary (except on a question of adjournment), shall be presented to the President of the United States. Before the order, resolution, or vote take effect, the President must approve it, or, being disapproved by him, be re-passed by two-thirds of the Senate and the House of Representatives, according to the same rules and limitations prescribed in the case of a bill.
 
-Section 8
-The Congress shall have Power To lay and collect Taxes, Duties, Imposts and
-Excises, to pay the Debts and provide for the common Defence and general
-Welfare of the United States; but all Duties, Imposts and Excises shall be
-uniform throughout the United States;
+## Section 9 - Powers of Congress
 
-To borrow money on the credit of the United States;
+The Congress, consisting of the House of Representatives and the Senate, shall have Power:
 
-To regulate Commerce with foreign Nations, and among the several States, and
-with the Indian Tribes;
+* To lay and collect taxes, duties, Imposts and excises, to pay the debts and provide for the common defense and general welfare of the United States; but all duties, imposts and excises shall be uniform throughout the United States;
 
-To establish an uniform Rule of Naturalization, and uniform Laws on the subject
-of Bankruptcies throughout the United States;
+* To borrow money on the credit of the United States;
 
-To coin Money, regulate the Value thereof, and of foreign Coin, and fix the
-Standard of Weights and Measures;
+* To regulate Commerce with foreign nations, among the several States, and with indigenous people;
 
-To provide for the Punishment of counterfeiting the Securities and current Coin
-of the United States;
+* To establish an uniform rule of naturalization;
 
-To establish Post Offices and Post Roads;
+* To establish uniform laws on the subject of bankruptcies throughout the United States;
 
-To promote the Progress of Science and useful Arts, by securing for limited
-Times to Authors and Inventors the exclusive Right to their respective Writings
-and Discoveries;
+* To coin or print money, regulate the value thereof, of foreign coin or currency, and fix the standards of weights and measures;
 
-To constitute Tribunals inferior to the supreme Court;
+* To provide for the punishment of counterfeiting the securities and currency of the United States;
 
-To define and punish Piracies and Felonies committed on the high Seas, and
-Offenses against the Law of Nations;
+* To establish Post offices and Post roads;
 
-To declare War, grant Letters of Marque and Reprisal, and make Rules concerning
-Captures on Land and Water;
+* To promote the progress of science and useful arts, by securing for limited
+times to authors and inventors the exclusive right to their respective writings
+and inventions;
 
-To raise and support Armies, but no Appropriation of Money to that Use shall be
-for a longer Term than two Years;
+* To constitute tribunals inferior to the Supreme Court;
 
-To provide and maintain a Navy;
+* To define and punish piracies and felonies committed on the high seas, and
+offenses against the Law of Nations;
 
-To make Rules for the Government and Regulation of the land and naval Forces;
+* To declare War;
 
-To provide for calling forth the Militia to execute the Laws of the Union,
-suppress Insurrections and repel Invasions;
+* To grant letters of marque and reprisal, and make rules concerning captures on land and water;
 
-To provide for organizing, arming, and disciplining, the Militia, and for
-governing such Part of them as may be employed in the Service of the United
-States, reserving to the States respectively, the Appointment of the Officers,
-and the Authority of training the Militia according to the discipline
-prescribed by Congress;
+* To raise and support the armed forces of the United States, though no appropriation of money to that use shall be for a longer term than three year;
 
-To exercise exclusive Legislation in all Cases whatsoever, over such District
-(not exceeding ten Miles square) as may, by Cession of particular States, and
-the acceptance of Congress, become the Seat of the Government of the United
-States, and to exercise like Authority over all Places purchased by the Consent
-of the Legislature of the State in which the Same shall be, for the Erection of
-Forts, Magazines, Arsenals, dock-Yards, and other needful Buildings; And
+* To make rules for the government and regulation of the land and naval forces;
 
-To make all Laws which shall be necessary and proper for carrying into
-Execution the foregoing Powers, and all other Powers vested by this
-Constitution in the Government of the United States, or in any Department or
-Officer thereof.
+* To provide for calling forth the National Guard to execute the laws of the union, suppress insurrections and repel invasions;
 
-Section 9
-The Migration or Importation of such Persons as any of the States now existing
-shall think proper to admit, shall not be prohibited by the Congress prior to
-the Year one thousand eight hundred and eight, but a tax or duty may be imposed
-on such Importation, not exceeding ten dollars for each Person.
+* To provide for the organization, arming, and disciplining of the National Guard, and for governing such part of them as may be employed in the service of the United States, reserving to the States respectively, the appointment of the officers, and the authority of training the militia according to the discipline prescribed by Congress;
 
-The privilege of the Writ of Habeas Corpus shall not be suspended, unless when
-in Cases of Rebellion or Invasion the public Safety may require it.
+* To exercise exclusive Legislation in all Cases whatsoever, over a district, not exceeding 10 miles square, used as the Seat of the Government of the United States, and to exercise like authority over all places purchased by the consent of the legislature in the state where the same shall be, for the rection of forts, magazines, arsenals, dock-yards, and other needful buildings;
+
+* To enforce that neither slavery nor involuntary servitude, except as a punishment for whereof the party shall have been duly convicted, shall exist withing the United States or any place subject to it's jurisdiction.
+
+* To lay and collect taxes on incomes, from whatever source derived, without apportionment among the several States, and
+without regard to any census or enumeration.
+
+* To make all Laws which shall be necessary and proper for carrying into execution the foregoing powers, and all other powers vested by this Constitution in the Government of the United States, or in any department or officer thereof.
+
+## Section 10 - Limits of Congress
+
+Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition
+the Government for a redress of grievances.
+
+The privilege of the Writ of Habeas Corpus shall not be suspended, unless when in cases of rebellion or invasion, the public Safety may require it.
 
 No Bill of Attainder or ex post facto Law shall be passed.
 
-No capitation, or other direct, Tax shall be laid, unless in Proportion to the
-Census or Enumeration herein before directed to be taken.
+No capitation, or other direct, tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken.
 
 No Tax or Duty shall be laid on Articles exported from any State.
 
-No Preference shall be given by any Regulation of Commerce or Revenue to the
-Ports of one State over those of another: nor shall Vessels bound to, or from,
-one State, be obliged to enter, clear, or pay Duties in another.
+No Preference shall be given by any regulation of commerce or revenue to the ports of one state over those of another: nor shall Vessels bound to, or from, one state, be obliged to enter, clear, or pay duties in another.
 
-No Money shall be drawn from the Treasury, but in Consequence of Appropriations
-made by Law; and a regular Statement and Account of the Receipts and
-Expenditures of all public Money shall be published from time to time.
+No Money shall be drawn from the Treasury, but in consequence of appropriations made by Law; and a regular statement and account of the receipts and expenditures of all public Money shall be published annually.
 
-No Title of Nobility shall be granted by the United States: And no Person
-holding any Office of Profit or Trust under them, shall, without the Consent of
-the Congress, accept of any present, Emolument, Office, or Title, of any kind
-whatever, from any King, Prince or foreign State.
+No title of nobility shall be granted by the United States.
 
+No person holding any office of profit or trust under Congress, shall, without the consent of the Congress, accept any kind of present, emolument, office, or title, of any kind whatsoever, from any King, Prince, foreign state or foreign business, nor may they accept any offer of employment from a foreign business or state after their service equal to the amount of time they served in that position.
+
+No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall
+have intervened.
+
+
+///////
 Section 10
 No State shall enter into any Treaty, Alliance, or Confederation; grant Letters
 of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but
